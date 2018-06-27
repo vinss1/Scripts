@@ -1,0 +1,25 @@
+https://wiki.jenkins.io/display/JENKINS/YAML+Project+Plugin
+
+
+https://www.youtube.com/watch?v=aoXjHcHz1KA
+
+https://github.com/librecores/librecores-ci 
+
+
+https://github.com/oleg-nenashev/demo-jenkins-config-as-code
+
+https://github.com/jenkinsci/jenkins
+
+https://github.com/escoem/pipeline-examples
+
+
+19c27e06b8ffc419ffa453039008fbc2a6e53502 GitHub_personal_token
+
+
+
+@Library('ESI_Build') _
+
+esiBuildFlow{
+  buildType = 'SpringPCF'
+  applicationName = 'devops-ci=tools'
+}
